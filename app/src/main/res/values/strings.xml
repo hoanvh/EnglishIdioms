@@ -1,0 +1,150 @@
+<resources>
+
+    <string name="app_name">English Idioms</string>
+    <string name="about_title">8000 Idioms in English</string>
+    <string name="about_desc">This app will help you learn Idioms and Phrases in English very easily and effectively. We have more than 8000 essential English Idioms and Phrasal Verbs collected and refined from many documents and resources.</string>
+
+
+    <string-array name="subject">
+        <item>A hot potato</item>
+        <item>A penny for your thoughts</item>
+        <item>Actions speak louder than words</item>
+        <item>Add insult to injury</item>
+        <item>An arm and a leg</item>
+        <item>At the drop of a hat</item>
+        <item>Back to the drawing board</item>
+        <item>Ball is in your court</item>
+        <item>Barking up the wrong tree</item>
+        <item>Be glad to see the back of</item>
+        <item>Beat around the bush</item>
+        <item>Best of both worlds</item>
+        <item>Best thing since sliced bread</item>
+        <item>Bite off more than you can chew</item>
+        <item>Blessing in disguise</item>
+        <item>Burn the midnight oil</item>
+        <item>Cant judge a book by its cover</item>
+        <item>Caught between two stools</item>
+        <item>Costs an arm and a leg</item>
+        <item>Cross that bridge when you come to it</item>
+        <item>Cry over spilt milk</item>
+        <item>Curiosity killed the cat</item>
+        <item>Cut corners</item>
+        <item>Cut the mustard [possibly derived from "cut the muster"]</item>
+        <item>Devils Advocate</item>
+        <item>Dont count your chickens before the eggs have hatched</item>
+        <item>Dont give up the day job</item>
+        <item>Dont put all your eggs in one basket</item>
+        <item>Drastic times call for drastic measures</item>
+        <item>Elvis has left the building</item>
+        <item>Every cloud has a silver lining</item>
+        <item>Far cry from</item>
+        <item>Feel a bit under the weather</item>
+        <item>Give the benefit of the doubt</item>
+        <item>Hear it on the grapevine</item>
+        <item>Hit the nail on the head</item>
+        <item>Hit the sack / sheets / hay</item>
+        <item>In the heat of the moment</item>
+        <item>It takes two to tango</item>
+        <item>Jump on the bandwagon</item>
+        <item>Keep something at bay</item>
+        <item>Kill two birds with one stone</item>
+        <item>Last straw</item>
+        <item>Let sleeping dogs lie</item>
+        <item>Let the cat out of the bag</item>
+        <item>Make a long story short</item>
+        <item>Method to my madness</item>
+        <item>Miss the boat</item>
+        <item>Not a spark of decency</item>
+        <item>Not playing with a full deck</item>
+        <item>Off ones rocker</item>
+        <item>On the ball</item>
+        <item>Once in a blue moon</item>
+        <item>Picture paints a thousand words</item>
+        <item>Piece of cake</item>
+        <item>Put wool over other peoples eyes</item>
+        <item>See eye to eye</item>
+        <item>Sit on the fence</item>
+        <item>Speak of the devil!</item>
+        <item>Steal someones thunder</item>
+        <item>Take with a grain of salt</item>
+        <item>Taste of your own medicine</item>
+        <item>To hear something straight from the horses mouth</item>
+        <item>Whole nine yards</item>
+        <item>Wouldnt be caught dead</item>
+        <item>Your guess is as good as mine</item>
+
+    </string-array>
+    <string-array name="content">
+        <item>Speak of an issue (mostly current) which many people are talking about and which is usually disputed</item>
+        <item>A way of asking what someone is thinking</item>
+        <item>Peoples intentions can be judged better by what they do than what they say.</item>
+        <item>To further a loss with mockery or indignity; to worsen an unfavorable situation.</item>
+        <item>Very expensive or costly. A large amount of money.</item>
+        <item>Meaning: without any hesitation; instantly.</item>
+        <item>When an attempt fails and its time to start all over.</item>
+        <item>It is up to you to make the next decision or step</item>
+        <item>Looking in the wrong place. Accusing the wrong person</item>
+        <item>Be happy when a person leaves.</item>
+        <item>Avoiding the main topic. Not speaking directly about the issue.</item>
+        <item>Meaning: All the advantages.</item>
+        <item>A good invention or innovation. A good idea or plan.</item>
+        <item>To take on a task that is way to big.</item>
+        <item>Something good that isnt recognized at first.</item>
+        <item>To work late into the night, alluding to the time before electric lighting.</item>
+        <item>Cannot judge something primarily on appearance.</item>
+        <item>When someone finds it difficult to choose between two alternatives.</item>
+        <item>This idiom is used when something is very expensive.</item>
+        <item>Deal with a problem if and when it becomes necessary, not before.</item>
+        <item>When you complain about a loss from the past.</item>
+        <item>Being Inquisitive can lead you into an unpleasant situation.</item>
+        <item>When something is done badly to save money.</item>
+        <item>To succeed; to come up to expectations; adequate enough to compete or participate</item>
+        <item>To present a counter argument</item>
+        <item>This idiom is used to express "Dont make plans for something that might not happen".</item>
+        <item>You are not very good at something. You could definitely not do it professionally.</item>
+        <item>Do not put all your resources in one possibility.</item>
+        <item>When you are extremely desperate you need to take drastic actions.</item>
+        <item>The show has come to an end. Its all over.</item>
+        <item>Be optimistic, even difficult times will lead to better days.</item>
+        <item>Very different from.</item>
+        <item>Meaning: Feeling slightly ill.</item>
+        <item>Believe someones statement, without proof.</item>
+        <item>This idiom means to hear rumors about something or someone.</item>
+        <item>Do or say something exactly right</item>
+        <item>To go to bed.</item>
+        <item>Overwhelmed by what is happening in the moment.</item>
+        <item>Actions or communications need more than one person</item>
+        <item>Join a popular trend or activity.</item>
+        <item>Keep something away.</item>
+        <item>This idiom means, to accomplish two different things at the same time.</item>
+        <item>The final problem in a series of problems.</item>
+        <item>Meaning - do not disturb a situation as it is - since it would result in trouble or complications.</item>
+        <item>To share information that was previously concealed</item>
+        <item>Come to the point - leave out details</item>
+        <item>An assertion that, despite ones approach seeming random, there actually is structure to it.</item>
+        <item>This idiom is used to say that someone missed his or her chance</item>
+        <item>Meaning: No manners</item>
+        <item>Someone who lacks intelligence.</item>
+        <item>Crazy, demented, out of ones mind, in a confused or befuddled state of mind, senile.</item>
+        <item>When someone understands the situation well.</item>
+        <item>Meaning: Happens very rarely.</item>
+        <item>A visual presentation is far more descriptive than words.</item>
+        <item>A job, task or other activity that is easy or simple.</item>
+        <item>This means to deceive someone into thinking well of them.</item>
+        <item>This idiom is used to say that two (or more people) agree on something.</item>
+        <item>This is used when someone does not want to choose or make a decision.</item>
+        <item>This expression is used when the person you have just been talking about arrives.</item>
+        <item>To take the credit for something someone else did.</item>
+        <item>This means not to take what someone says too seriously.</item>
+        <item>Means that something happens to you, or is done to you, that you have done to someone else</item>
+        <item>To hear something from the authoritative source.</item>
+        <item>Everything. All of it.</item>
+        <item>Would never like to do something</item>
+        <item>  To have no idea, do not know the answer to a question</item>
+
+    </string-array>
+    <string name="repository_website">Repository website</string>
+    <string name="all_my_repositories">All my repositories</string>
+    <string name="all_my_apps">All my apps</string>
+    <string name="more_info">More info</string>
+</resources>
